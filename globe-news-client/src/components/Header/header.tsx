@@ -1,15 +1,17 @@
 import './styles.css';
 import { Avatar, Box, Stack } from '@mui/material';
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
+import Logo from '../../assets/globe-news-logo.png'
 
 const Header = () => {
   return (
     <header className="header">
       <div className="logo">
+        <img src={Logo} alt="" />
       </div>
       <nav className="nav">
         <ul>
-          <li><a href="#about">salve</a></li>
+          <li><a href="#about">Criar</a></li>
           <li><a href="#membership">Política</a></li>
           <li><a href="#faqs">Sobre nós</a></li>
           <li><a href="#join">Esporte</a></li>
