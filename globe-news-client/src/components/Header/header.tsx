@@ -1,6 +1,7 @@
 import './styles.css';
 import { Avatar, Box, Stack } from '@mui/material';
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
+
 const Header = () => {
   return (
     <header className="header">
