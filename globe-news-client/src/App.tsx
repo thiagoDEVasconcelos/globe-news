@@ -1,4 +1,4 @@
-import Header from "./components/Header/header";
+import Header from "./components/header";
 import PostForm from "./components/Form/PostForm";
 import Footer from "./components/Footer/footer";
 import TopNews from "./components/TopNews/topNews";
