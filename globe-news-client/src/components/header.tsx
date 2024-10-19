@@ -5,7 +5,6 @@ import NotificationsNoneIcon from "@mui/icons-material/NotificationsNone";
 const Header = () => {
   return (
     <header className="bg-white fixed w-full z-50 flex flex-wrap items-center justify-between px-4 py-3">
-      {/* Menu */}
       <div className="">
         <Menu />
       </div>
