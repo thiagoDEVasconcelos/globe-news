@@ -12,23 +12,23 @@ const Header = () => {
     <ul className="flex flex-row space-x-4 sm:space-x-6 pt-2">
       <li className="group relative">
         <a href="#">Futebol</a>
-        <span className="absolute inset-x-0 bottom-2 h-[2px] bg-black transition-transform duration-300 scale-x-0 group-hover:scale-x-100 origin-center"></span>
+        <span className="absolute inset-x-0 bottom-2 h-[2px] bg-black transition-transform duration-500 scale-x-0 group-hover:scale-x-100 origin-center"></span>
       </li>
       <li className="group relative">
         <a href="#">Política</a>
-        <span className="absolute inset-x-0 bottom-2 h-[2px] bg-black transition-transform duration-300 scale-x-0 group-hover:scale-x-100 origin-center"></span>
+        <span className="absolute inset-x-0 bottom-2 h-[2px] bg-black transition-transform duration-500 scale-x-0 group-hover:scale-x-100 origin-center"></span>
       </li>
       <li className="group relative">
         <a href="#">Esportes</a>
-        <span className="absolute inset-x-0 bottom-2 h-[2px] bg-black transition-transform duration-300 scale-x-0 group-hover:scale-x-100 origin-center"></span>
+        <span className="absolute inset-x-0 bottom-2 h-[2px] bg-black transition-transform duration-500 scale-x-0 group-hover:scale-x-100 origin-center"></span>
       </li>
       <li className="group relative">
         <a href="#">Entretenimento</a>
-        <span className="absolute inset-x-0 bottom-2 h-[2px] bg-black transition-transform duration-300 scale-x-0 group-hover:scale-x-100 origin-center"></span>
+        <span className="absolute inset-x-0 bottom-2 h-[2px] bg-black transition-transform duration-500 scale-x-0 group-hover:scale-x-100 origin-center"></span>
       </li>
       <li className="group relative">
         <a href="#">Jogos</a>
-        <span className="absolute inset-x-0 bottom-2 h-[2px] bg-black transition-transform duration-300 scale-x-0 group-hover:scale-x-100 origin-center"></span>
+        <span className="absolute inset-x-0 bottom-2 h-[2px] bg-black transition-transform duration-500 scale-x-0 group-hover:scale-x-100 origin-center"></span>
       </li>
     </ul>
   </nav>
