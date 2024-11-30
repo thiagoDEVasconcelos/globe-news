@@ -1,3 +1,5 @@
+import { yellow } from '@mui/material/colors';
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: ["./src/**/*.{html,js,ts,jsx,tsx}"],
@@ -123,6 +125,13 @@ export default {
         "24px": "24px",
         "31px": "31px",
         "4xl": "3rem",
+      },
+      colors: {
+        economia: "#dce000",
+        esporte: "#349f29",
+        politica: "#e20d04",
+        gastronomia: "#fda615",
+        fofoca: "#742472"
       },
       boxShadow: {
         bottom: "0 4px 10px rgba(0, 0, 0, 0.06)",
