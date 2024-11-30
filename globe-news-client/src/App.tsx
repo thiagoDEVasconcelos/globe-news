@@ -1,17 +1,11 @@
-import Header from "./components/header";
-import PostForm from "./components/Form/PostForm";
-import Footer from "./components/Footer/footer";
-import TopNews from "./components/TopNews/topNews";
 import "./index.css"
+import Home from "./pages/Home";
 
 function App() {
     
   return (
     <>
-    <Header />
-    <TopNews />
-    <PostForm />
-    <Footer />
+    <Home />
     </>
   )
 }
