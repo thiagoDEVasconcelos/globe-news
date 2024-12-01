@@ -9,7 +9,9 @@ const Home = () => {
     <>
       <Header />
       <TopNews />
+      <hr />
       <MoreNews/>
+      <hr />
       <PostForm />
       <Footer />
     </>

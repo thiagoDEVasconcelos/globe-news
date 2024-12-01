@@ -2,7 +2,7 @@ import PoliticaImg from "../assets/halandsiara.jpg";
 
 const TopNew = () => {
   return (
-    <div className="flex justify-center items-center h-screen mt-36">
+    <div className="flex justify-center items-center h-screen my-36">
       <div className="grid grid-cols-2 grid-rows-2 gap-4 ">
         <a href="" className="relative w-[502px] h-[502px] text-white group">
           <img

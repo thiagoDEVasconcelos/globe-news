@@ -1,6 +1,6 @@
 const MoreNews = () => {
     return (
-      <div className="flex flex-wrap justify-center gap-8 mt-24">
+      <div className="flex flex-wrap justify-center gap-8 mt-10">
         <section className="flex flex-col w-[300px] font-bold">
           <h3 className="mb-6 text-economia text-3xl">Economia</h3>
           <ul>
